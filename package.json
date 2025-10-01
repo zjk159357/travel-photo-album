@@ -1,7 +1,8 @@
 
 {
-  "name": "travel-photo-album",
+  "name": "travel-photo-album-full",
   "version": "1.0.0",
+  "type":"module",
   "private": true,
   "scripts": {
     "dev": "vite",
