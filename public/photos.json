@@ -1,6 +1,13 @@
 [
   "/photos/sample1.jpg",
   "/photos/sample2.jpg",
+<<<<<<< HEAD
   "/photos/sample3.jpg"
-  "/photos/1.jpg"
+  "/photos/1.png"
 ]
+=======
+  "/photos/DSC_0240.jpg"
+ "/photos/1.png"
+
+]
+>>>>>>> f90b859b5b4ca3df944b5b5a8fa99b4b36d74542
